@@ -1,1 +1,3 @@
 Example project B file
+
+Editing project B file
